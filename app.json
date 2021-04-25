@@ -86,5 +86,7 @@
     "url": "https://github.com/chrismytton/heroku-buildpack-jq"
   },{
     "url": "heroku/python"
+  },{
+    "url": "https://github.com/amivin/aria2-heroku.git"
   }]
 }

@@ -4,6 +4,7 @@ wheel
 aiofiles
 aiohttp
 beautifulsoup4
+bencodepy
 cairosvg
 cfscrape
 coffeehouse

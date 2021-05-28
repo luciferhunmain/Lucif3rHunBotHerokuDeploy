@@ -1,7 +1,7 @@
 # Catuserbot-heroku
 
 ## Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fluciferhunmain%2FLucif3rHunBotHerokuDeploy&template=https%3A%2F%2Fgithub.com%2Fluciferhunmain%2FLucif3rHunBotHerokuDeploy
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fluciferhunmain%2FLucif3rHunBotHerokuDeploy&template=https%3A%2F%2Fgithub.com%2Fluciferhunmain%2FLucif3rHunBotHerokuDeploy)
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
